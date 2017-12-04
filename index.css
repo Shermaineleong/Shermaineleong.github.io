@@ -1,0 +1,51 @@
+.h1-monospace{
+    font-family: monospace;
+    font-size: 5em;
+    text-align: center;
+    line-height: 20px;
+}
+
+.h2-green{
+    font-size: 1.5em;
+    font-family: cursive;
+    color: green;
+    text-align: center;
+}
+
+.p1-format{
+    font-size: 1.5em;
+    font-family: sans-serif;
+    color: black;
+
+}
+audio{
+    background-color: rgb(92, 241, 92);
+
+}
+
+.body{ background-image: url(https://image.shutterstock.com/z/stock-vector-winter-seamless-pattern-with-cute-cartoon-penguins-and-ice-cream-on-a-white-background-296043680.jpg)
+}
+
+.image{
+    border-color: blue;
+    border: 5px solid;
+    width: 1000px;
+    margin: 20px;
+
+}
+
+.circle{
+    width: 200px;
+    border-radius: 50%;
+    border: 5px black solid;
+    display: inline;
+    top: 10px;
+    right: 10px;
+    position: absolute;
+
+}
+}
+
+}
+)
+)
