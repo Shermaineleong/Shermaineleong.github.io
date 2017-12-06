@@ -1,5 +1,5 @@
-.h1-monospace{
-    font-family: monospace;
+.h1-Raleway{
+    font-family: 'Raleway', sans-serif;
     font-size: 5em;
     text-align: center;
     line-height: 20px;
@@ -23,9 +23,19 @@ audio{
 
 }
 
-.body{ background-image: url(https://image.shutterstock.com/z/stock-vector-winter-seamless-pattern-with-cute-cartoon-penguins-and-ice-cream-on-a-white-background-296043680.jpg)
+.body{ 
+    background-position: fixed;
+    background-image: url("http://www.mikereyfman.com/wp-content/uploads/Mike-Reyfman__The-Spirit-Island.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    opacity: 0.6;
+   
+   
+    
+
 }
 
+ 
 .image{
     border-color: blue;
     border: 5px solid;
@@ -43,6 +53,9 @@ audio{
     right: 10px;
     position: absolute;
 
+}
+.container-fluid{
+    
 }
 }
 
