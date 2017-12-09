@@ -37,27 +37,11 @@
      
 }
 
-
-.image{
-    border-color: blue;
-    border: 5px solid;
-    width: 1000px;
-    margin: 20px;
-
-}
-
-.circle{
-    width: 200px;
-    border-radius: 50%;
-    border: 5px black solid;
-    display: inline;
-    top: 10px;
-    right: 10px;
-    position: absolute;
-
-}
-.container-fluid{
+.textarea{
+    width: 300px;
+    height: 10em;
     
+}
 }
 }
 
