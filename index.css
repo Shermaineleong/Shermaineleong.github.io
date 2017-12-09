@@ -1,25 +1,26 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 
 
-.h1{
-    text-align: left;
+.jumbotron-h1{
     font-family: 'Raleway', sans-serif;
          
 }
 
-.h2{
-    text-align: left;
+.jumbotron-h2{
     font-style: italic;
+    font-family: 'Indie Flower', cursive;
     
 }
 
-.jumbotron-p{
-    font-family: monospace;
-    text align: left;
-    margin-left: 20px;
-    padding-bottom: 30px;
+.jumbotron-billboard{
+    background: url "https://cache-graphicslib.viator.com/graphicslib/destination/greenland-381237.jpg";
+    background-size: 100%;
+    opacity: 0.6;
+    
 
 }
+
 
 
  .btn-primary{
