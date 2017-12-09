@@ -2,50 +2,39 @@
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 
 
+.jumbotron{
+        background-image: url("https://cdn1.wimp.com/images/sthumbs/2014/11/58486f778e9b8d47320537a99aa66e8a_story28it.jpg");
+        background-size: 100% 120%;
+        background-position: center center;
+        margin-top: 20px;
+        
+}
+
 .jumbotron-h1{
     font-family: 'Raleway', sans-serif;
+    font-size: 5em !important;
+    margin-top: 20px;
+
          
 }
 
 .jumbotron-h2{
     font-style: italic;
     font-family: 'Indie Flower', cursive;
+    margin-bottom:40px;
+    font-size:1.5em;
     
 }
-
-.jumbotron-billboard{
-    background: url "https://cache-graphicslib.viator.com/graphicslib/destination/greenland-381237.jpg";
-    background-size: 100%;
-    opacity: 0.6;
-    
-
-}
-
-
-
+ 
  .btn-primary{
      position: absolute;
      color: white;
      background-color:darkblue;
      border-color: black;
      border-radius: 100px;
-     padding-top: 5px;
-     padding-bottom: 5px;
-     padding-left: 5px;
-     margin-right: 50px;
+     margin-top:8px;
      font-size: 1em;
-     font-family: Raleway;
+     font-family: 'Raleway', sans-serif;
      
 }
-
-.textarea{
-    width: 300px;
-    height: 10em;
     
-}
-}
-}
-
-}
-)
-)
